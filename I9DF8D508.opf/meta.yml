@@ -1,0 +1,16 @@
+id: I9DF8D508
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:32:19.713433
+last_modified: 2023-02-10 00:32:19.713567
+source_metadata:
+  title: 'Nāgārjuna: Ratnāvalī'
+  language: bo
+bases:
+  21A4:
+    base_file: 21A4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
